@@ -1,6 +1,6 @@
-# Python practice - Kanevskiy
+# Python practice - Kanevskyi
 
-Student: Bohdan Kanevskiy  
+Student: Bohdan Kanevskyi  
 Group: IT-32  
 Course: Python programming, semester 1  
 
